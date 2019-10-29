@@ -7,8 +7,9 @@ actor = {:name => "Dwayne The Rock Johnson"}
 end
 
 def monopoly
-	monopoly[:railroad] = {}
-
+monopoly = {}
+  monopoly[:railroad] = {}
+  monopoly
 end
 
 def monopoly_with_second_tier
